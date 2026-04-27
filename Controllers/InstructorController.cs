@@ -16,11 +16,9 @@ namespace SmartAttendance.Controllers
             _service = service;
         }
 
-        [Authorize]
         [HttpGet]
         public IActionResult GetAll() => Ok(_service.GetAll());
 
-        [Authorize]
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
@@ -29,6 +27,11 @@ namespace SmartAttendance.Controllers
             return Ok(instructor);
         }
 
+        /* ===================================================================
+        OBSOLETE ENDPOINT: 
+        Instructor registration is now handled by the AuthController using 
+        ASP.NET Core Identity. Do not use this manual endpoint!
+        ===================================================================
         [HttpPost]
         public IActionResult Create([FromBody] CreateInstructorDto dto)
         {
@@ -37,6 +40,7 @@ namespace SmartAttendance.Controllers
             if (created == null) return BadRequest("Unable to create instructor");
             return CreatedAtAction(nameof(GetById), new { id = created.Id }, created);
         }
+        */
 
         [Authorize]
         [HttpDelete("{id}")]

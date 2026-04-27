@@ -43,6 +43,11 @@ namespace SmartAttendance.Services
                 .FirstOrDefault();
         }
 
+        /* ===================================================================
+        OBSOLETE METHOD: 
+        User creation is now handled securely via ASP.NET Core Identity 
+        inside the AuthController. Do not create users manually here!
+        ===================================================================
         public InstructorDto? Create(CreateInstructorDto dto)
         {
             var user = new User
@@ -67,6 +72,7 @@ namespace SmartAttendance.Services
                 Email = user.Email
             };
         }
+        */
 
         public bool Delete(int id)
         {

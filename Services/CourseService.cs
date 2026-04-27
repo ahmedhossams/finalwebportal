@@ -64,7 +64,7 @@ namespace SmartAttendance.Services
             var course = new Course
             {
                 Name = dto.Name,
-                InstructorId = dto.InstructorId
+                InstructorId = instructor.Id
             };
 
             _context.Courses.Add(course);
@@ -80,11 +80,15 @@ namespace SmartAttendance.Services
 
         public bool Update(int id, UpdateCourseDto dto)
         {
+            var instructor = _context.Instructors
+                .FirstOrDefault(i => i.Id == dto.InstructorId);
+            if (instructor == null) return false;
+
             var course = _context.Courses.Find(id);
             if (course == null) return false;
 
             course.Name = dto.Name;
-            course.InstructorId = dto.InstructorId;
+            course.InstructorId = instructor.Id;
 
             _context.SaveChanges();
             return true;

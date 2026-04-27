@@ -1,42 +1,90 @@
-
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using SmartAttendance.Services;
+using Microsoft.Extensions.Configuration;
+using Microsoft.IdentityModel.Tokens;
+using SmartAttendance.Models;
 using SmartAttendance.DTOs;
+using System;
+using System.Collections.Generic;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace SmartAttendance.Controllers
 {
     [ApiController]
-    [Route("api/auth")]
+    [Route("api/auth")] 
     public class AuthController : ControllerBase
     {
-        private readonly AuthService _authService;
+        private readonly UserManager<User> _userManager;
+        private readonly IConfiguration _configuration; 
 
-        public AuthController(AuthService authService)
+        public AuthController(UserManager<User> userManager, IConfiguration configuration)
         {
-            _authService = authService;
+            _userManager = userManager;
+            _configuration = configuration;
         }
 
         [HttpPost("register")]
-        public IActionResult Register([FromBody] RegisterDto dto)
+        public async Task<IActionResult> Register([FromBody] RegisterDto dto)
         {
-            if (dto == null) return BadRequest("Invalid request");
+            if (dto == null || !ModelState.IsValid) 
+                return BadRequest("Invalid request");
             
-            var user = _authService.Register(dto);
-            if (user == null) return BadRequest("User already exists");
+            var user = new User
+            {
+                UserName = dto.Email, 
+                Email = dto.Email,
+                Name = dto.Name       
+            };
+
+            var result = await _userManager.CreateAsync(user, dto.Password);
             
-            return CreatedAtAction(nameof(Register), user);
+            if (result.Succeeded)
+            {
+                return Ok(new { Message = "User registered successfully!" });
+            }
+            
+            return BadRequest(result.Errors);
         }
 
         [HttpPost("login")]
-        public IActionResult Login([FromBody] LoginDto dto)
+        public async Task<IActionResult> Login([FromBody] LoginDto dto)
         {
-            if (dto == null) return BadRequest("Invalid request");
+            if (dto == null || !ModelState.IsValid) 
+                return BadRequest("Invalid request");
             
-            var response = _authService.Login(dto);
-            if (response == null) return Unauthorized("Invalid email or password");
+            var user = await _userManager.FindByEmailAsync(dto.Email);
             
-            return Ok(response);
+            if (user == null || !await _userManager.CheckPasswordAsync(user, dto.Password))
+            {
+                return Unauthorized(new { Message = "Invalid email or password" });
+            }
+            
+            var authClaims = new List<Claim>
+            {
+                new Claim(ClaimTypes.NameIdentifier, user.Id),
+                new Claim(ClaimTypes.Email, user.Email),
+                new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
+            };
+
+            var authSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["JwtSettings:SecurityKey"]));
+
+            var token = new JwtSecurityToken(
+                issuer: _configuration["JwtSettings:Issuer"],
+                audience: _configuration["JwtSettings:Audience"],
+                expires: DateTime.Now.AddMinutes(Convert.ToDouble(_configuration["JwtSettings:ExpiryInMinutes"])),
+                claims: authClaims,
+                signingCredentials: new SigningCredentials(authSigningKey, SecurityAlgorithms.HmacSha256)
+            );
+
+            return Ok(new 
+            { 
+                token = new JwtSecurityTokenHandler().WriteToken(token),
+                expiration = token.ValidTo,
+                message = "Login successful!"
+            });
         }
     }
 }
-

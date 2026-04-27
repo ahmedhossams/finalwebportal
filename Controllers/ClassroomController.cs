@@ -16,11 +16,9 @@ namespace SmartAttendance.Controllers
             _service = service;
         }
 
-        [Authorize]
         [HttpGet]
         public IActionResult GetAll() => Ok(_service.GetAll());
 
-        [Authorize]
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
@@ -29,7 +27,6 @@ namespace SmartAttendance.Controllers
             return Ok(classroom);
         }
 
-        [Authorize]
         [HttpPost]
         public IActionResult Create([FromBody] CreateClassroomDto dto)
         {
@@ -39,7 +36,6 @@ namespace SmartAttendance.Controllers
             return CreatedAtAction(nameof(GetById), new { id = created.Id }, created);
         }
 
-        [Authorize]
         [HttpPut("{id}")]
         public IActionResult Update(int id, [FromBody] UpdateClassroomDto dto)
         {
