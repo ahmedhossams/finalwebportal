@@ -2,6 +2,8 @@ using Microsoft.AspNetCore.Mvc;
 using SmartAttendance.Services;
 using SmartAttendance.DTOs;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 
 namespace SmartAttendance.Controllers
 {
@@ -27,6 +29,7 @@ namespace SmartAttendance.Controllers
             return Ok(classroom);
         }
 
+        [Authorize(Roles = "Instructor", AuthenticationSchemes = $"{JwtBearerDefaults.AuthenticationScheme},{CookieAuthenticationDefaults.AuthenticationScheme}")]
         [HttpPost]
         public IActionResult Create([FromBody] CreateClassroomDto dto)
         {
@@ -36,6 +39,7 @@ namespace SmartAttendance.Controllers
             return CreatedAtAction(nameof(GetById), new { id = created.Id }, created);
         }
 
+        [Authorize(Roles = "Instructor", AuthenticationSchemes = $"{JwtBearerDefaults.AuthenticationScheme},{CookieAuthenticationDefaults.AuthenticationScheme}")]
         [HttpPut("{id}")]
         public IActionResult Update(int id, [FromBody] UpdateClassroomDto dto)
         {
@@ -44,7 +48,7 @@ namespace SmartAttendance.Controllers
             return NoContent();
         }
 
-        [Authorize]
+        [Authorize(Roles = "Instructor", AuthenticationSchemes = $"{JwtBearerDefaults.AuthenticationScheme},{CookieAuthenticationDefaults.AuthenticationScheme}")]
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {

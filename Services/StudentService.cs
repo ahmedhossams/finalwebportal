@@ -40,8 +40,15 @@ namespace SmartAttendance.Services
 
             var enrollments = _context.Enrollments
                 .Include(e => e.Course)
+                .ThenInclude(c => c.Instructor)
+                .ThenInclude(i => i.User)
                 .Where(e => e.StudentId == id)
-                .Select(e => e.Course.Name)
+                .Select(e => new StudentCourseDto
+                {
+                    CourseId = e.Course.Id,
+                    CourseName = e.Course.Name,
+                    InstructorName = e.Course.Instructor.User.Name
+                })
                 .ToList();
 
             return new StudentDetailDto
@@ -51,6 +58,104 @@ namespace SmartAttendance.Services
                 Email = student.User.Email,
                 EnrolledCourses = enrollments
             };
+        }
+
+        public StudentDetailDto? GetByUserId(string userId)
+        {
+            var student = _context.Students
+                .Include(s => s.User)
+                .AsNoTracking()
+                .FirstOrDefault(s => s.UserId == userId);
+
+            if (student == null) return null;
+
+            var enrollments = _context.Enrollments
+                .Include(e => e.Course)
+                .ThenInclude(c => c.Instructor)
+                .ThenInclude(i => i.User)
+                .Where(e => e.StudentId == student.Id)
+                .Select(e => new StudentCourseDto
+                {
+                    CourseId = e.Course.Id,
+                    CourseName = e.Course.Name,
+                    InstructorName = e.Course.Instructor.User.Name
+                })
+                .ToList();
+
+            return new StudentDetailDto
+            {
+                Id = student.Id,
+                Name = student.User.Name,
+                Email = student.User.Email,
+                EnrolledCourses = enrollments
+            };
+        }
+
+        public List<CourseDto> GetStudentCoursesByUserId(string userId)
+        {
+            var student = _context.Students.FirstOrDefault(s => s.UserId == userId);
+            if (student == null) return new List<CourseDto>();
+
+            return _context.Enrollments
+                .Include(e => e.Course)
+                .ThenInclude(c => c.Instructor)
+                .ThenInclude(i => i.User)
+                .AsNoTracking()
+                .Where(e => e.StudentId == student.Id)
+                .Select(e => new CourseDto
+                {
+                    Id = e.Course.Id,
+                    Name = e.Course.Name,
+                    InstructorName = e.Course.Instructor.User.Name
+                })
+                .ToList();
+        }
+
+        public List<AttendanceDto> GetStudentAttendanceByUserId(string userId)
+        {
+            var student = _context.Students.FirstOrDefault(s => s.UserId == userId);
+            if (student == null) return new List<AttendanceDto>();
+
+            return _context.Attendances
+                .Include(a => a.Course)
+                .AsNoTracking()
+                .Where(a => a.StudentId == student.Id)
+                .Select(a => new AttendanceDto
+                {
+                    Id = a.Id,
+                    StudentId = a.StudentId,
+                    StudentName = _context.Students.Include(s => s.User).FirstOrDefault(s => s.Id == a.StudentId).User.Name,
+                    CourseId = a.CourseId,
+                    CourseName = a.Course.Name,
+                    IsPresent = a.IsPresent,
+                    Date = a.Date
+                })
+                .ToList();
+        }
+
+        public List<AssignmentDto> GetStudentAssignmentsByUserId(string userId)
+        {
+            var student = _context.Students.FirstOrDefault(s => s.UserId == userId);
+            if (student == null) return new List<AssignmentDto>();
+
+            var courseIds = _context.Enrollments
+                .Where(e => e.StudentId == student.Id)
+                .Select(e => e.CourseId)
+                .ToList();
+
+            return _context.Assignments
+                .Include(a => a.Course)
+                .AsNoTracking()
+                .Where(a => courseIds.Contains(a.CourseId))
+                .Select(a => new AssignmentDto
+                {
+                    Id = a.Id,
+                    Title = a.Title,
+                    Description = a.Description,
+                    DueDate = a.DueDate,
+                    CourseName = a.Course.Name
+                })
+                .ToList();
         }
 
         public bool EnrollInCourse(int studentId, int courseId)

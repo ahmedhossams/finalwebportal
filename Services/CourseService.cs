@@ -24,6 +24,7 @@ namespace SmartAttendance.Services
                 .Select(c => new CourseDto
                 {
                     Id = c.Id,
+                    Code = c.Code,
                     Name = c.Name,
                     InstructorName = c.Instructor.User.Name
                 })
@@ -46,6 +47,7 @@ namespace SmartAttendance.Services
             return new CourseDetailDto
             {
                 Id = course.Id,
+                Code = course.Code,
                 Name = course.Name,
                 InstructorId = course.InstructorId,
                 InstructorName = course.Instructor.User.Name,
@@ -63,6 +65,7 @@ namespace SmartAttendance.Services
 
             var course = new Course
             {
+                Code = dto.Code,
                 Name = dto.Name,
                 InstructorId = instructor.Id
             };
@@ -73,6 +76,7 @@ namespace SmartAttendance.Services
             return new CourseDto
             {
                 Id = course.Id,
+                Code = course.Code,
                 Name = course.Name,
                 InstructorName = instructor.User.Name
             };
@@ -87,6 +91,7 @@ namespace SmartAttendance.Services
             var course = _context.Courses.Find(id);
             if (course == null) return false;
 
+            course.Code = dto.Code;
             course.Name = dto.Name;
             course.InstructorId = instructor.Id;
 

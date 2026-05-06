@@ -2,6 +2,8 @@ using Microsoft.AspNetCore.Mvc;
 using SmartAttendance.Services;
 using SmartAttendance.DTOs;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 
 namespace SmartAttendance.Controllers
 {
@@ -42,7 +44,7 @@ namespace SmartAttendance.Controllers
         }
         */
 
-        [Authorize]
+        [Authorize(Roles = "Instructor", AuthenticationSchemes = $"{JwtBearerDefaults.AuthenticationScheme},{CookieAuthenticationDefaults.AuthenticationScheme}")]
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {

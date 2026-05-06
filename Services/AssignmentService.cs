@@ -25,7 +25,8 @@ namespace SmartAttendance.Services
                     Title = a.Title,
                     Description = a.Description,
                     DueDate = a.DueDate,
-                    CourseName = a.Course.Name
+                    CourseName = a.Course.Name,
+                    CourseId = a.CourseId
                 })
                 .ToList();
         }
@@ -42,12 +43,13 @@ namespace SmartAttendance.Services
                     Title = a.Title,
                     Description = a.Description,
                     DueDate = a.DueDate,
-                    CourseName = a.Course.Name
+                    CourseName = a.Course.Name,
+                    CourseId = a.CourseId
                 })
                 .ToList();
         }
 
-        public AssignmentDto? GetById(int id)
+         public AssignmentDto? GetById(int id)
         {
             return _context.Assignments
                 .Include(a => a.Course)
@@ -59,7 +61,8 @@ namespace SmartAttendance.Services
                     Title = a.Title,
                     Description = a.Description,
                     DueDate = a.DueDate,
-                    CourseName = a.Course.Name
+                    CourseName = a.Course.Name,
+                    CourseId = a.CourseId
                 })
                 .FirstOrDefault();
         }

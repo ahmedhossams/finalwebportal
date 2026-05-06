@@ -58,6 +58,31 @@ namespace SmartAttendance.Services
             };
         }
 
+        public int? GetStudentIdByUserId(string userId)
+        {
+            var student = _context.Students.FirstOrDefault(s => s.UserId == userId);
+            return student?.Id;
+        }
+
+        public List<AttendanceDto> GetByStudentId(int studentId)
+        {
+            return _context.Attendances
+                .Include(a => a.Course)
+                .AsNoTracking()
+                .Where(a => a.StudentId == studentId)
+                .Select(a => new AttendanceDto
+                {
+                    Id = a.Id,
+                    StudentId = a.StudentId,
+                    StudentName = _context.Students.Include(s => s.User).FirstOrDefault(s => s.Id == a.StudentId).User.Name,
+                    CourseId = a.CourseId,
+                    CourseName = a.Course.Name,
+                    IsPresent = a.IsPresent,
+                    Date = a.Date
+                })
+                .ToList();
+        }
+
         public List<AttendanceDto> GetByCourseId(int courseId)
         {
             return _context.Attendances

@@ -1,0 +1,790 @@
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\appsettings.json
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Debug\net6.0\appsettings.json
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Debug\net6.0\Program.deps.json
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Debug\net6.0\Program.runtimeconfig.json
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\appsettings.json
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\Program.deps.json
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\Program.runtimeconfig.json
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\Program.staticwebassets.endpoints.json
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\swagger.json
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\package-lock.json
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\swagger.json
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Program.staticwebassets.endpoints.json
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Program.exe
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Program.deps.json
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Program.runtimeconfig.json
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Program.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Program.pdb
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\obj\Debug\net8.0\Program.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\obj\Debug\net8.0\Program.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\obj\Debug\net8.0\Program.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\obj\Debug\net8.0\Program.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\obj\Debug\net8.0\Program.sourcelink.json
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\obj\Debug\net8.0\scopedcss\bundle\Program.styles.css
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\obj\Debug\net8.0\Program.csproj.Up2Date
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\obj\Debug\net8.0\Program.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\obj\Debug\net8.0\refint\Program.dll
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\obj\Debug\net8.0\Program.pdb
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\obj\Debug\net8.0\Program.genruntimeconfig.cache
+C:\Users\Ahmed\Desktop\SmartAttendanceULTIMATE (2)\SmartAttendanceback\obj\Debug\net8.0\ref\Program.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\appsettings.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Debug\net6.0\appsettings.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Debug\net6.0\Program.deps.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Debug\net6.0\Program.runtimeconfig.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\appsettings.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\Program.deps.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\Program.runtimeconfig.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\Program.staticwebassets.endpoints.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\swagger.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\package-lock.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\swagger.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Program.staticwebassets.endpoints.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Program.exe
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Program.deps.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Program.runtimeconfig.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Program.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Program.pdb
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Humanizer.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.csproj.AssemblyReference.cache
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.AssemblyInfo.cs
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.sourcelink.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\scopedcss\bundle\Program.styles.css
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.csproj.Up2Date
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\refint\Program.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.pdb
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.genruntimeconfig.cache
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\ref\Program.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\appsettings.json
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Debug\net6.0\appsettings.json
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Debug\net6.0\Program.deps.json
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Debug\net6.0\Program.runtimeconfig.json
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\appsettings.json
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\Program.deps.json
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\Program.runtimeconfig.json
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\Program.staticwebassets.endpoints.json
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\swagger.json
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\package-lock.json
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\swagger.json
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Program.staticwebassets.endpoints.json
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Program.exe
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Program.deps.json
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Program.runtimeconfig.json
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Program.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Program.pdb
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Azure.Core.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Azure.Identity.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\BCrypt.Net-Next.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Humanizer.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.CodeDom.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Memory.Data.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.csproj.AssemblyReference.cache
+F:\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\rpswa.dswa.cache.json
+F:\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+F:\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+F:\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.AssemblyInfo.cs
+F:\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+F:\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.MvcApplicationPartsAssemblyInfo.cs
+F:\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.MvcApplicationPartsAssemblyInfo.cache
+F:\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.sourcelink.json
+F:\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\rjimswa.dswa.cache.json
+F:\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+F:\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+F:\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\scopedcss\bundle\Program.styles.css
+F:\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\staticwebassets.build.json
+F:\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\staticwebassets.development.json
+F:\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\swae.build.ex.cache
+F:\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.csproj.Up2Date
+F:\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\refint\Program.dll
+F:\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.pdb
+F:\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.genruntimeconfig.cache
+F:\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\ref\Program.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.sourcelink.json
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\refint\Program.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.pdb
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\appsettings.json
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Debug\net6.0\appsettings.json
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Debug\net6.0\Program.deps.json
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Debug\net6.0\Program.runtimeconfig.json
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\appsettings.json
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\Program.deps.json
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\Program.runtimeconfig.json
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\Program.staticwebassets.endpoints.json
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\swagger.json
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\package-lock.json
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\swagger.json
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Program.staticwebassets.endpoints.json
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Program.exe
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Program.deps.json
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Program.runtimeconfig.json
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Program.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Program.pdb
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\scopedcss\bundle\Program.styles.css
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.csproj.Up2Date
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\Program.genruntimeconfig.cache
+C:\Users\Ahmed\Desktop\SmartAttendance_FullProject\SmartAttendanceback\obj\Debug\net8.0\ref\Program.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\appsettings.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Debug\net6.0\appsettings.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Debug\net6.0\Program.deps.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Debug\net6.0\Program.runtimeconfig.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\appsettings.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\Program.deps.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\Program.runtimeconfig.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\Program.staticwebassets.endpoints.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Debug\net8.0\swagger.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\package-lock.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\swagger.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Program.staticwebassets.endpoints.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Program.exe
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Program.deps.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Program.runtimeconfig.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Program.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Program.pdb
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Humanizer.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\obj\Debug\net8.0\Program.csproj.AssemblyReference.cache
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\obj\Debug\net8.0\Program.AssemblyInfo.cs
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\obj\Debug\net8.0\Program.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\obj\Debug\net8.0\Program.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\obj\Debug\net8.0\Program.sourcelink.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\obj\Debug\net8.0\scopedcss\bundle\Program.styles.css
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\obj\Debug\net8.0\Program.csproj.Up2Date
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\obj\Debug\net8.0\Program.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\obj\Debug\net8.0\refint\Program.dll
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\obj\Debug\net8.0\Program.pdb
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\obj\Debug\net8.0\Program.genruntimeconfig.cache
+C:\Users\CreativeX\Desktop\SmartAttendance_FullProject1\SmartAttendanceback\obj\Debug\net8.0\ref\Program.dll

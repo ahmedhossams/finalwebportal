@@ -1,8 +1,9 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.IdentityModel.Tokens;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.OpenApi.Models;
 using Microsoft.AspNetCore.Identity; // 1. Added for Identity
+using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
+using Microsoft.OpenApi.Models;
 using System.Text;
 using System.Linq;
 using SmartAttendance.Data;
@@ -41,8 +42,16 @@ builder.Services.AddSwaggerGen(c =>
 builder.Services.AddDbContext<AppDbContext>(opt =>
     opt.UseInMemoryDatabase("SmartAttendanceDB"));
 
-// 3. ADD IDENTITY CORE CONFIGURATION
-builder.Services.AddIdentity<User, IdentityRole>()
+// Add Identity with password configuration
+builder.Services.AddIdentity<User, IdentityRole>(options =>
+    {
+        options.Password.RequireDigit = true;
+        options.Password.RequireLowercase = true;
+        options.Password.RequireUppercase = true;
+        options.Password.RequireNonAlphanumeric = false;
+        options.Password.RequiredLength = 6;
+        options.User.RequireUniqueEmail = true;
+    })
     .AddEntityFrameworkStores<AppDbContext>()
     .AddDefaultTokenProviders();
 
@@ -59,7 +68,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowReactApp", policy =>
     {
-        policy.WithOrigins("http://localhost:3000")
+        policy.WithOrigins("http://localhost:3000", "http://127.0.0.1:3000")
               .AllowAnyHeader()
               .AllowAnyMethod()
               .AllowCredentials();
@@ -72,10 +81,40 @@ var secretKey = jwtSettings.GetValue<string>("SecurityKey") ?? throw new Invalid
 var issuer = jwtSettings.GetValue<string>("Issuer") ?? throw new InvalidOperationException("JWT Issuer is not configured.");
 var audience = jwtSettings.GetValue<string>("Audience") ?? throw new InvalidOperationException("JWT Audience is not configured.");
 
+// Add cookie-based authentication
 builder.Services.AddAuthentication(options =>
 {
-    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultScheme = "JWT_OR_COOKIE";
+    options.DefaultChallengeScheme = "JWT_OR_COOKIE";
+})
+.AddPolicyScheme("JWT_OR_COOKIE", "JWT_OR_COOKIE", options =>
+{
+    options.ForwardDefaultSelector = context =>
+    {
+        string authorization = context.Request.Headers.Authorization.ToString();
+        if (!string.IsNullOrEmpty(authorization) && authorization.StartsWith("Bearer "))
+            return JwtBearerDefaults.AuthenticationScheme;
+        return CookieAuthenticationDefaults.AuthenticationScheme;
+    };
+})
+.AddCookie(options =>
+{
+    options.Cookie.Name = "SmartAttendanceAuth";
+    options.Cookie.HttpOnly = true;
+    options.Cookie.SameSite = SameSiteMode.Lax;
+    options.Cookie.SecurePolicy = CookieSecurePolicy.None; // Set to Secure in production with HTTPS
+    options.ExpireTimeSpan = TimeSpan.FromMinutes(60);
+    options.SlidingExpiration = true;
+    options.Events.OnRedirectToLogin = context =>
+    {
+        context.Response.StatusCode = 401;
+        return Task.CompletedTask;
+    };
+    options.Events.OnRedirectToAccessDenied = context =>
+    {
+        context.Response.StatusCode = 403;
+        return Task.CompletedTask;
+    };
 })
 .AddJwtBearer(options =>
 {
@@ -90,8 +129,6 @@ builder.Services.AddAuthentication(options =>
         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secretKey))
     };
 });
-
-builder.Services.AddAuthorization();
 
 var app = builder.Build();
 
@@ -111,221 +148,145 @@ app.MapGet("/", () => Results.Redirect("/swagger/index.html"));
 using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+    var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
+    var userManager = scope.ServiceProvider.GetRequiredService<UserManager<User>>();
 
-    if (!db.Users.Any() && !db.Students.Any() && !db.Courses.Any() && !db.Classrooms.Any() && !db.Attendances.Any() && !db.Assignments.Any())
+    var seeder = async () =>
     {
-        var instructorUser1 = new User
+        // Create roles
+        var roles = new[] { "Student", "Instructor" };
+        foreach (var role in roles)
         {
-            Id = Guid.NewGuid().ToString(),
-            UserName = "instructor1",
-            NormalizedUserName = "INSTRUCTOR1",
-            Email = "instructor1@example.com",
-            NormalizedEmail = "INSTRUCTOR1@EXAMPLE.COM",
-            EmailConfirmed = true,
-            Name = "Dr. tamer bsiony    "
+            if (!await roleManager.RoleExistsAsync(role))
+                await roleManager.CreateAsync(new IdentityRole(role));
+        }
+
+        var instructorUsers = new[]
+        {
+            new User { UserName = "instructor1", Email = "instructor1@example.com", Name = "Dr. tamer bsiony", EmailConfirmed = true },
+            new User { UserName = "instructor2", Email = "instructor2@example.com", Name = "Dr. ahemed shihatta", EmailConfirmed = true },
+            new User { UserName = "instructor3", Email = "instructor3@example.com", Name = "Prof. waled elshazly", EmailConfirmed = true },
+            new User { UserName = "instructor4", Email = "instructor4@example.com", Name = "Dr. 3lewa", EmailConfirmed = true },
+            new User { UserName = "instructor5", Email = "instructor5@example.com", Name = "Prof. karim hamoda", EmailConfirmed = true },
+            new User { UserName = "instructor6", Email = "instructor6@example.com", Name = "Dr. shihatta", EmailConfirmed = true },
         };
 
-        var instructorUser2 = new User
+        var createdInstructors = new List<Instructor>();
+        foreach (var user in instructorUsers)
         {
-            Id = Guid.NewGuid().ToString(),
-            UserName = "instructor2",
-            NormalizedUserName = "INSTRUCTOR2",
-            Email = "instructor2@example.com",
-            NormalizedEmail = "INSTRUCTOR2@EXAMPLE.COM",
-            EmailConfirmed = true,
-            Name = "Dr. ahemed shihatta"
+            var result = await userManager.CreateAsync(user, "Password123!");
+            if (result.Succeeded)
+            {
+                await userManager.AddToRoleAsync(user, "Instructor");
+                createdInstructors.Add(new Instructor { UserId = user.Id });
+            }
+        }
+
+        var studentUsers = new[]
+        {
+            new User { UserName = "student1", Email = "student1@example.com", Name = "tamer ahmed", EmailConfirmed = true },
+            new User { UserName = "student2", Email = "student2@example.com", Name = "youssef ahmed", EmailConfirmed = true },
+            new User { UserName = "student3", Email = "student3@example.com", Name = "ahmed hossam", EmailConfirmed = true },
+            new User { UserName = "student4", Email = "student4@example.com", Name = "noura Al-Farsi", EmailConfirmed = true },
+            new User { UserName = "student5", Email = "student5@example.com", Name = "karim osama", EmailConfirmed = true },
+            new User { UserName = "student6", Email = "student6@example.com", Name = "Leila Hassan", EmailConfirmed = true },
         };
 
-        var instructorUser3 = new User
+        var createdStudents = new List<Student>();
+        foreach (var user in studentUsers)
         {
-            Id = Guid.NewGuid().ToString(),
-            UserName = "instructor3",
-            NormalizedUserName = "INSTRUCTOR3",
-            Email = "instructor3@example.com",
-            NormalizedEmail = "INSTRUCTOR3@EXAMPLE.COM",
-            EmailConfirmed = true,
-            Name = "Prof. waled elshazly"
-        };
+            var result = await userManager.CreateAsync(user, "Password123!");
+            if (result.Succeeded)
+            {
+                await userManager.AddToRoleAsync(user, "Student");
+                createdStudents.Add(new Student { UserId = user.Id });
+            }
+        }
 
-        var instructorUser4 = new User
-        {
-            Id = Guid.NewGuid().ToString(),
-            UserName = "instructor4",
-            NormalizedUserName = "INSTRUCTOR4",
-            Email = "instructor4@example.com",
-            NormalizedEmail = "INSTRUCTOR4@EXAMPLE.COM",
-            EmailConfirmed = true,
-            Name = "Dr. 3lewa"
-        };
-
-        var instructorUser5 = new User
-        {
-            Id = Guid.NewGuid().ToString(),
-            UserName = "instructor5",
-            NormalizedUserName = "INSTRUCTOR5",
-            Email = "instructor5@example.com",
-            NormalizedEmail = "INSTRUCTOR5@EXAMPLE.COM",
-            EmailConfirmed = true,
-            Name = "Prof. karim hamoda"
-        };
-
-        var instructorUser6 = new User
-        {
-            Id = Guid.NewGuid().ToString(),
-            UserName = "instructor6",
-            NormalizedUserName = "INSTRUCTOR6",
-            Email = "instructor6@example.com",
-            NormalizedEmail = "INSTRUCTOR6@EXAMPLE.COM",
-            EmailConfirmed = true,
-            Name = "Dr. shihatta"
-        };
-
-        var studentUser1 = new User
-        {
-            Id = Guid.NewGuid().ToString(),
-            UserName = "student1",
-            NormalizedUserName = "STUDENT1",
-            Email = "student1@example.com",
-            NormalizedEmail = "STUDENT1@EXAMPLE.COM",
-            EmailConfirmed = true,
-            Name = "tamer ahmed"
-        };
-
-        var studentUser2 = new User
-        {
-            Id = Guid.NewGuid().ToString(),
-            UserName = "student2",
-            NormalizedUserName = "STUDENT2",
-            Email = "student2@example.com",
-            NormalizedEmail = "STUDENT2@EXAMPLE.COM",
-            EmailConfirmed = true,
-            Name = "youssef ahmed  "
-        };
-
-        var studentUser3 = new User
-        {
-            Id = Guid.NewGuid().ToString(),
-            UserName = "student3",
-            NormalizedUserName = "STUDENT3",
-            Email = "student3@example.com",
-            NormalizedEmail = "STUDENT3@EXAMPLE.COM",
-            EmailConfirmed = true,
-            Name = "ahmed hossam"
-        };
-
-        var studentUser4 = new User
-        {
-            Id = Guid.NewGuid().ToString(),
-            UserName = "student4",
-            NormalizedUserName = "STUDENT4",
-            Email = "student4@example.com",
-            NormalizedEmail = "STUDENT4@EXAMPLE.COM",
-            EmailConfirmed = true,
-            Name = "noura Al-Farsi"
-        };
-
-        var studentUser5 = new User
-        {
-            Id = Guid.NewGuid().ToString(),
-            UserName = "student5",
-            NormalizedUserName = "STUDENT5",
-            Email = "student5@example.com",
-            NormalizedEmail = "STUDENT5@EXAMPLE.COM",
-            EmailConfirmed = true,
-            Name = "karim osama"
-        };
-
-        var studentUser6 = new User
-        {
-            Id = Guid.NewGuid().ToString(),
-            UserName = "student6",
-            NormalizedUserName = "STUDENT6",
-            Email = "student6@example.com",
-            NormalizedEmail = "STUDENT6@EXAMPLE.COM",
-            EmailConfirmed = true,
-            Name = "Leila Hassan"
-        };
-
-        db.Users.AddRange(
-            instructorUser1,
-            instructorUser2,
-            instructorUser3,
-            instructorUser4,
-            instructorUser5,
-            instructorUser6,
-            studentUser1,
-            studentUser2,
-            studentUser3,
-            studentUser4,
-            studentUser5,
-            studentUser6
-        );
+        db.Instructors.AddRange(createdInstructors);
+        db.Students.AddRange(createdStudents);
         db.SaveChanges();
 
-        var instructors = new[]
+        var instructor1 = createdInstructors[0];
+        var instructor2 = createdInstructors[1];
+        var instructor3 = createdInstructors[2];
+        var student = createdStudents.First();
+
+        var courses = new List<Course>
         {
-            new Instructor { UserId = instructorUser1.Id },
-            new Instructor { UserId = instructorUser2.Id },
-            new Instructor { UserId = instructorUser3.Id },
-            new Instructor { UserId = instructorUser4.Id },
-            new Instructor { UserId = instructorUser5.Id },
-            new Instructor { UserId = instructorUser6.Id },
+            new Course { Code = "CS101", Name = "Introduction to Computer Science", InstructorId = instructor1.Id },
+            new Course { Code = "CS201", Name = "Data Structures and Algorithms", InstructorId = instructor1.Id },
+            new Course { Code = "DB301", Name = "Database Management Systems", InstructorId = instructor2.Id },
+            new Course { Code = "WEB401", Name = "Web Development", InstructorId = instructor2.Id },
+            new Course { Code = "ML501", Name = "Machine Learning Fundamentals", InstructorId = instructor3.Id },
+            new Course { Code = "NET601", Name = "Computer Networks", InstructorId = instructor3.Id },
         };
 
-        var students = new[]
-        {
-            new Student { UserId = studentUser1.Id },
-            new Student { UserId = studentUser2.Id },
-            new Student { UserId = studentUser3.Id },
-            new Student { UserId = studentUser4.Id },
-            new Student { UserId = studentUser5.Id },
-            new Student { UserId = studentUser6.Id },
-        };
-
-        db.Instructors.AddRange(instructors);
-        db.Students.AddRange(students);
+        db.Courses.AddRange(courses);
         db.SaveChanges();
 
-        var instructor = instructors[0];
-        var student = students[0];
-
-        var course = new Course
-        {
-            Name = "Introduction to Computer Science",
-            InstructorId = instructor.Id
-        };
-     
         var classroom = new Classroom
         {
             Name = "Room 101",
             Location = "Main Building",
             Capacity = 30,
-            InstructorId = instructor.Id
+            InstructorId = instructor1.Id
         };
 
-        db.Courses.Add(course);
         db.Classrooms.Add(classroom);
         db.SaveChanges();
 
-        var attendance = new Attendance
+        var assignments = new List<Assignment>
         {
-            StudentId = student.Id,
-            CourseId = course.Id,
-            IsPresent = true,
-            Date = DateTime.Today
+            new Assignment
+            {
+                CourseId = courses[0].Id,
+                Title = "Week 1 Homework",
+                Description = "Complete the introductory programming exercises.",
+                DueDate = DateTime.Today.AddDays(7)
+            },
+            new Assignment
+            {
+                CourseId = courses[1].Id,
+                Title = "Binary Search Tree Implementation",
+                Description = "Implement a BST with insert, delete, and search operations.",
+                DueDate = DateTime.Today.AddDays(14)
+            },
+            new Assignment
+            {
+                CourseId = courses[2].Id,
+                Title = "SQL Query Assignment",
+                Description = "Write complex SQL queries including joins, subqueries, and aggregations.",
+                DueDate = DateTime.Today.AddDays(10)
+            }
         };
 
-        var assignment = new Assignment
+        var attendances = new List<Attendance>();
+        var random = new Random();
+        foreach (var s in createdStudents)
         {
-            CourseId = course.Id,
-            Title = "Week 1 Homework",
-            Description = "Complete the introductory programming exercises.",
-            DueDate = DateTime.Today.AddDays(7)
-        };
+            foreach (var c in courses)
+            {
+                var isPresent = random.Next(0, 10) < 7;
+                var daysAgo = random.Next(0, 30);
+                attendances.Add(new Attendance
+                {
+                    StudentId = s.Id,
+                    CourseId = c.Id,
+                    IsPresent = isPresent,
+                    Date = DateTime.Today.AddDays(-daysAgo)
+                });
+            }
+        }
 
-        db.Attendances.Add(attendance);
-        db.Assignments.Add(assignment);
+        db.Attendances.AddRange(attendances);
+        db.Assignments.AddRange(assignments);
         db.SaveChanges();
+    };
+    
+    if (!db.Users.Any() && !db.Students.Any() && !db.Courses.Any() && !db.Classrooms.Any() && !db.Attendances.Any() && !db.Assignments.Any())
+    {
+        seeder().Wait();
     }
 }
 
